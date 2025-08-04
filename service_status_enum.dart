@@ -1,0 +1,1 @@
+enum ServiceStatus { PENDING, INPROGRESS, COMPLETED, CANCELED }
