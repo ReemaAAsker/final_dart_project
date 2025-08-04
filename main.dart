@@ -1,4 +1,1 @@
-
-main(){
-    pritn("");
-}
+void main(List<String> args) {}
