@@ -30,9 +30,9 @@ void main() {
   requests.add(s3);
 
   // Display and process all
-  for (var r in requests) {
-    r.displayDetails();
-    r.process();
+  for (var req in requests) {
+    req.displayDetails();
+    req.process();
   }
 
   // Simulate changing status manually (testing InProgress)
